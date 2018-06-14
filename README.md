@@ -5,7 +5,7 @@ This is my first project for the Front-End Web Developer Nanodegree through Udac
 
 I have started with the basic requirements given in the rubric. I will continue to add to the portfolio as other projects are completed.
 
-Considerations I have in palce are:   <!-- TODO: Continue to update site with more styling i.e.text formattting, background colors, transforms, transitions, Contact Me/about section, etc. Consider a navigation bar and linking to new pages as other projects are completed for the Nanodegree. -->
+Considerations I have in palce are:   TODO: Continue to update site with more styling i.e.text formattting, background colors, transforms, transitions, Contact Me/about section, etc. Consider a navigation bar and linking to new pages as other projects are completed for the Nanodegree. 
 
 Below is the assignment given to us for building this portfolio site:
 
